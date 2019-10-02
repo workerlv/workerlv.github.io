@@ -229,3 +229,13 @@ h2.job-title {
   clear: both;
   display: table;
 }
+
+#text1end {display: none;}
+
+.unstyled-button {
+  border: none;
+  padding: 0;
+  background: none;
+  color: gray;
+  font-weight: bold;
+}
